@@ -1,9 +1,12 @@
 <h2 align="center">
-SynCLIP: Synonym-Coherent Language-Image Pretraining for Robust Open-Vocabulary Dense Perception
+[CVPR 2026] SynCLIP: Synonym-Coherent Language-Image Pretraining for Robust Open-Vocabulary Dense Perception
 </h2>
 
-<h3 align="center"><b> CVPR 2026 Accept </b></h3>
+<div align="center">
 
+[![CVPR](https://img.shields.io/badge/CVPR-Paper-blue.svg)](https://openaccess.thecvf.com/content/CVPR2026/papers/Xie_SynCLIP_Synonym-Coherent_Language-Image_Pretraining_for_Robust_Open-Vocabulary_Dense_Perception_CVPR_2026_paper.pdf)
+
+</div>
 
 <p align="center">
   <a href="#abstract">Abstract</a> |
