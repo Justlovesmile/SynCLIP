@@ -1,0 +1,412 @@
+{
+    "person": {
+        "definition": "A human being, typically an individual in a general or social context.",
+        "synonyms": ["guy", "human", "pedestrian", "people"],
+        "translation": ["人", "人类", "行人", "居民"]
+    },
+    "bicycle": {
+        "definition": "A two-wheeled vehicle powered by pedaling.",
+        "synonyms": ["bike", "cycle", "pushbike", "pushcycle"],
+        "translation": ["自行车", "脚踏车", "单车"]
+    },
+    "car": {
+        "definition": "A four-wheeled motor vehicle designed for passenger transportation.",
+        "synonyms": ["automobile", "motorcar", "vehicle", "sedan"],
+        "translation": ["汽车", "轿车", "车辆"]
+    },
+    "motorcycle": {
+        "definition": "A two-wheeled motor vehicle with an engine.",
+        "synonyms": ["motor-bike", "motorbike", "motor-cycle", "scooter"],
+        "translation": ["摩托车", "机车", "电动车"]
+    },
+    "train": {
+        "definition": "A series of connected vehicles running on rails to transport passengers or freight.",
+        "synonyms": ["locomotive", "railcar", "choochoo", "iron horse"],
+        "translation": ["火车", "列车", "铁路车"]
+    },
+    "truck": {
+        "definition": "A large motor vehicle designed for transporting goods.",
+        "synonyms": ["lorry", "semi", "hauler", "rig"],
+        "translation": ["卡车", "货车", "运输车"]
+    },
+    "boat": {
+        "definition": "A small vessel for traveling on water.",
+        "synonyms": ["vessel", "ship", "craft", "dinghy"],
+        "translation": ["船", "小船", "艇"]
+    },
+    "bench": {
+        "definition": "A long seat for multiple people, typically made of wood or metal.",
+        "synonyms": ["long seat", "pew", "form", "settle"],
+        "translation": ["长椅", "凳子", "座椅"]
+    },
+    "bird": {
+        "definition": "A warm-blooded egg-laying vertebrate with feathers, wings, and a beak.",
+        "synonyms": ["avian", "fowl", "feathered friend", "songbird"],
+        "translation": ["鸟", "禽类", "飞鸟"]
+    },
+    "horse": {
+        "definition": "A large domesticated mammal with hooves, used for riding, racing, and carrying loads.",
+        "synonyms": ["steed", "nag", "equine", "mount"],
+        "translation": ["马", "骏马", "骑兽"]
+    },
+    "sheep": {
+        "definition": "A domesticated ruminant mammal raised for its wool and meat.",
+        "synonyms": ["lamb", "ewe", "ram", "ovine"],
+        "translation": ["羊", "绵羊", "羔羊"]
+    },
+    "bear": {
+        "definition": "A large, heavy mammal with thick fur and a short tail, known for its strength.",
+        "synonyms": ["bruin", "ursine", "grizzly", "teddy"],
+        "translation": ["熊", "大熊", "棕熊"]
+    },
+    "zebra": {
+        "definition": "An African wild horse with black-and-white stripes.",
+        "synonyms": ["striped horse", "hippotigris", "equid", "wild ass"],
+        "translation": ["斑马", "条纹马", "野马"]
+    },
+    "giraffe": {
+        "definition": "A tall African mammal with a very long neck and legs, known for its distinctive coat pattern.",
+        "synonyms": ["camelopard", "long-neck", "giraffa", "tallest animal"],
+        "translation": ["长颈鹿", "鹿马", "长颈兽"]
+    },
+    "backpack": {
+        "definition": "A bag carried on one's back, typically with straps over the shoulders.",
+        "synonyms": ["rucksack", "knapsack", "pack", "haversack"],
+        "translation": ["背包", "双肩包", "书包"]
+    },
+    "handbag": {
+        "definition": "A small bag used by women to carry personal items.",
+        "synonyms": ["purse", "clutch", "tote", "satchel"],
+        "translation": ["手提包", "女包", "钱包"]
+    },
+    "suitcase": {
+        "definition": "A large rectangular case with a handle, used for carrying clothes and other personal belongings.",
+        "synonyms": ["luggage", "bag", "trunk", "valise"],
+        "translation": ["手提箱", "行李箱", "旅行箱"]
+    },
+    "frisbee": {
+        "definition": "A plastic disk thrown between players in a game or sport.",
+        "synonyms": ["flying disc", "disc", "saucer", "thrower"],
+        "translation": ["飞盘", "飞碟", "盘子"]
+    },
+    "skis": {
+        "definition": "Long, narrow pieces of wood, metal, or plastic attached to boots for gliding over snow.",
+        "synonyms": ["ski", "runner", "board", "plank"],
+        "translation": ["滑雪板", "雪板", "滑雪工具"]
+    },
+    "kite": {
+        "definition": "A light frame covered with paper or cloth, flown in the wind at the end of a string.",
+        "synonyms": ["box kite", "delta", "diamond", "sled"],
+        "translation": ["风筝", "纸鸢", "飞筝"]
+    },
+    "surfboard": {
+        "definition": "A long, narrow board used for riding on waves.",
+        "synonyms": ["board", "plank", "stick", "wave rider"],
+        "translation": ["冲浪板", "浪板", "滑水板"]
+    },
+    "bottle": {
+        "definition": "A container with a narrow neck, used for storing liquids.",
+        "synonyms": ["flask", "jar", "vessel", "container"],
+        "translation": ["瓶子", "瓶", "容器"]
+    },
+    "fork": {
+        "definition": "A utensil with two or more prongs, used for eating or serving food.",
+        "synonyms": ["prong", "tine", "spear", "utensil"],
+        "translation": ["叉子", "餐叉", "叉"]
+    },
+    "spoon": {
+        "definition": "A utensil with a small bowl and a handle, used for eating or stirring.",
+        "synonyms": ["ladle", "scoop", "spoon", "utensil"],
+        "translation": ["勺子", "汤匙", "调羹"]
+    },
+    "bowl": {
+        "definition": "A round, deep dish used for holding food or liquids.",
+        "synonyms": ["dish", "basin", "vessel", "container"],
+        "translation": ["碗", "盆", "碟"]
+    },
+    "banana": {
+        "definition": "A long, curved fruit with a yellow skin when ripe.",
+        "synonyms": ["plantain", "fruit", "yellow fruit", "tropical fruit"],
+        "translation": ["香蕉", "芭蕉", "水果"]
+    },
+    "apple": {
+        "definition": "A round fruit with red, green, or yellow skin and crisp flesh.",
+        "synonyms": ["pome", "fruit", "orchard fruit", "malus"],
+        "translation": ["苹果", "果实", "水果"]
+    },
+    "sandwich": {
+        "definition": "Two slices of bread with a filling between them.",
+        "synonyms": ["sub", "hero", "hoagie", "grinder"],
+        "translation": ["三明治", "夹心面包", "汉堡"]
+    },
+    "orange": {
+        "definition": "A round citrus fruit with a tough bright reddish-yellow rind.",
+        "synonyms": ["citrus", "fruit", "tangerine", "mandarin"],
+        "translation": ["橙子", "橘子", "柑橘"]
+    },
+    "broccoli": {
+        "definition": "A green vegetable with a thick stem and tightly packed flower buds.",
+        "synonyms": ["brassica", "green cauliflower", "Italian asparagus", "calabrese"],
+        "translation": ["西兰花", "花椰菜", "绿花菜"]
+    },
+    "carrot": {
+        "definition": "A long, orange root vegetable.",
+        "synonyms": ["root", "vegetable", "daucus", "orange root"],
+        "translation": ["胡萝卜", "红萝卜", "蔬菜"]
+    },
+    "pizza": {
+        "definition": "A dish of Italian origin consisting of a flat, round base of dough baked with toppings.",
+        "synonyms": ["pie", "slice", "flatbread", "Italian pie"],
+        "translation": ["披萨", "比萨饼", "意大利饼"]
+    },
+    "donut": {
+        "definition": "A small, fried cake of sweetened dough, typically in the shape of a ring.",
+        "synonyms": ["doughnut", "pastry", "fried cake", "sinker"],
+        "translation": ["甜甜圈", "油炸圈饼", "甜点"]
+    },
+    "chair": {
+        "definition": "A seat with a back and four legs, for one person.",
+        "synonyms": ["seat", "stool", "armchair", "recliner"],
+        "translation": ["椅子", "座椅", "凳子"]
+    },
+    "bed": {
+        "definition": "A piece of furniture for sleeping or resting on.",
+        "synonyms": ["cot", "bunk", "mattress", "berth"],
+        "translation": ["床", "卧床", "睡床"]
+    },
+    "toilet": {
+        "definition": "A fixture for the disposal of bodily waste.",
+        "synonyms": ["lavatory", "commode", "john", "loo"],
+        "translation": ["厕所", "马桶", "卫生间"]
+    },
+    "tv": {
+        "definition": "A device for receiving television signals and displaying them on a screen.",
+        "synonyms": ["television", "telly", "boob tube", "idiot box"],
+        "translation": ["电视", "电视机", "屏幕"]
+    },
+    "laptop": {
+        "definition": "A portable computer small enough to use on one's lap.",
+        "synonyms": ["notebook", "portable", "computer", "PC"],
+        "translation": ["笔记本电脑", "手提电脑", "便携电脑"]
+    },
+    "mouse": {
+        "definition": "A small handheld device used to control the cursor on a computer screen.",
+        "synonyms": ["pointer", "clicker", "rodent", "input device"],
+        "translation": ["鼠标", "电脑鼠标", "输入设备"]
+    },
+    "remote": {
+        "definition": "A device used to control electronic equipment from a distance.",
+        "synonyms": ["controller", "zapper", "clicker", "remote control"],
+        "translation": ["遥控器", "控制器", "遥控装置"]
+    },
+    "microwave": {
+        "definition": "An oven that uses microwaves to cook or heat food quickly.",
+        "synonyms": ["micro", "nuker", "radar range", "microwave oven"],
+        "translation": ["微波炉", "微波炉", "加热器"]
+    },
+    "oven": {
+        "definition": "A chamber for baking, heating, or drying, especially one in a stove.",
+        "synonyms": ["stove", "range", "cooker", "kiln"],
+        "translation": ["烤箱", "炉子", "烘箱"]
+    },
+    "toaster": {
+        "definition": "A device for toasting bread.",
+        "synonyms": ["bread toaster", "pop-up toaster", "toaster oven", "browning machine"],
+        "translation": ["烤面包机", "吐司机", "烤箱"]
+    },
+    "refrigerator": {
+        "definition": "An appliance for keeping food and drinks cold.",
+        "synonyms": ["fridge", "icebox", "cooler", "chiller"],
+        "translation": ["冰箱", "冷藏箱", "冷冻机"]
+    },
+    "book": {
+        "definition": "A written or printed work consisting of pages bound together.",
+        "synonyms": ["volume", "tome", "publication", "text"],
+        "translation": ["书", "书籍", "书本"]
+    },
+    "clock": {
+        "definition": "A device for measuring and indicating time.",
+        "synonyms": ["timepiece", "chronometer", "watch", "timer"],
+        "translation": ["钟", "时钟", "计时器"]
+    },
+    "vase": {
+        "definition": "A decorative container, typically made of glass or china, used for holding flowers.",
+        "synonyms": ["urn", "jar", "pot", "vessel"],
+        "translation": ["花瓶", "瓶子", "容器"]
+    },
+    "toothbrush": {
+        "definition": "A small brush with a handle, used for cleaning the teeth.",
+        "synonyms": ["brush", "dental brush", "tooth cleaner", "oral hygiene tool"],
+        "translation": ["牙刷", "刷牙工具", "口腔清洁器"]
+    },
+    "airplane": {
+        "definition": "A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.",
+        "synonyms": ["plane", "aircraft", "jet", "aeroplane"],
+        "translation": ["飞机", "飞行器", "喷气机"]
+    },
+    "bus": {
+        "definition": "A large motor vehicle carrying passengers by road, typically with multiple stops.",
+        "synonyms": ["coach", "omnibus", "motorbus", "charabanc"],
+        "translation": ["公共汽车", "巴士", "大巴"]
+    },
+    "cat": {
+        "definition": "A small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws.",
+        "synonyms": ["feline", "kitty", "puss", "moggy"],
+        "translation": ["猫", "小猫", "家猫"]
+    },
+    "dog": {
+        "definition": "A domesticated carnivorous mammal with a barking voice and an acute sense of smell.",
+        "synonyms": ["canine", "pooch", "hound", "mutt"],
+        "translation": ["狗", "犬", "家犬"]
+    },
+    "cow": {
+        "definition": "A large domesticated mammal kept for its milk or meat.",
+        "synonyms": ["bovine", "cattle", "moo-cow", "dairy animal"],
+        "translation": ["牛", "奶牛", "肉牛"]
+    },
+    "elephant": {
+        "definition": "A very large plant-eating mammal with a trunk, long curved tusks, and large ears.",
+        "synonyms": ["pachyderm", "tusker", "jumbo", "mammoth"],
+        "translation": ["象", "大象", "巨兽"]
+    },
+    "umbrella": {
+        "definition": "A device for protection against rain or sun, consisting of a collapsible canopy on a frame.",
+        "synonyms": ["brolly", "parasol", "sunshade", "gamp"],
+        "translation": ["雨伞", "伞", "阳伞"]
+    },
+    "tie": {
+        "definition": "A long, narrow piece of cloth worn around the neck, typically by men.",
+        "synonyms": ["necktie", "cravat", "bow tie", "ascot"],
+        "translation": ["领带", "领巾", "领结"]
+    },
+    "snowboard": {
+        "definition": "A board used for sliding down snow-covered slopes.",
+        "synonyms": ["board", "plank", "snow surfer", "winter sport equipment"],
+        "translation": ["滑雪板", "雪板", "滑雪工具"]
+    },
+    "skateboard": {
+        "definition": "A short, narrow board with wheels, used for riding on.",
+        "synonyms": ["board", "deck", "skate", "wheeled board"],
+        "translation": ["滑板", "滑板车", "轮滑板"]
+    },
+    "cup": {
+        "definition": "A small, bowl-shaped container for drinking from.",
+        "synonyms": ["mug", "beaker", "chalice", "goblet"],
+        "translation": ["杯子", "茶杯", "酒杯"]
+    },
+    "knife": {
+        "definition": "A tool with a sharp blade for cutting.",
+        "synonyms": ["blade", "cutter", "shank", "shiv"],
+        "translation": ["刀", "刀具", "切削工具"]
+    },
+    "cake": {
+        "definition": "A sweet baked food made from flour, sugar, and other ingredients.",
+        "synonyms": ["gateau", "torte", "sponge", "pastry"],
+        "translation": ["蛋糕", "糕点", "甜点"]
+    },
+    "couch": {
+        "definition": "A long upholstered piece of furniture for several people to sit on.",
+        "synonyms": ["sofa", "settee", "divan", "lounge"],
+        "translation": ["沙发", "长椅", "卧榻"]
+    },
+    "keyboard": {
+        "definition": "A set of keys on a computer or typewriter for inputting text.",
+        "synonyms": ["keypad", "piano", "clavier", "manual"],
+        "translation": ["键盘", "电脑键盘", "输入设备"]
+    },
+    "sink": {
+        "definition": "A basin with a water supply and drain, used for washing.",
+        "synonyms": ["basin", "washbasin", "lavatory", "bowl"],
+        "translation": ["水槽", "洗手盆", "洗涤槽"]
+    },
+    "scissors": {
+        "definition": "A cutting instrument with two blades pivoted in the middle.",
+        "synonyms": ["shears", "clippers", "snips", "cutters"],
+        "translation": ["剪刀", "剪子", "切割工具"]
+    },
+    "traffic light": {
+        "definition": "A signaling device with colored lights to control road traffic.",
+        "synonyms": ["stoplight", "traffic signal", "signal light", "semaphore"],
+        "translation": ["交通灯", "红绿灯", "信号灯"]
+    },
+    "fire hydrant": {
+        "definition": "A fixture in a street providing water for firefighting purposes.",
+        "synonyms": ["hydrant", "fire plug", "water valve", "standpipe"],
+        "translation": ["消防栓", "灭火栓", "水龙头"]
+    },
+    "stop sign": {
+        "definition": "A red octagonal sign instructing drivers to stop at an intersection.",
+        "synonyms": ["halt sign", "stop board", "traffic sign", "octagon"],
+        "translation": ["停车标志", "停止标志", "路标"]
+    },
+    "parking meter": {
+        "definition": "A device used to collect payment for parking a vehicle in a designated area.",
+        "synonyms": ["meter", "pay station", "parking clock", "ticket machine"],
+        "translation": ["停车计时器", "停车收费器", "计时器"]
+    },
+    "sports ball": {
+        "definition": "A spherical object used in various sports and games.",
+        "synonyms": ["ball", "game ball", "sphere", "orb"],
+        "translation": ["运动球", "球", "体育用球"]
+    },
+    "baseball bat": {
+        "definition": "A long, cylindrical piece of wood or metal used to hit the ball in baseball.",
+        "synonyms": ["bat", "club", "stick", "lumber"],
+        "translation": ["棒球棒", "球棒", "击球棒"]
+    },
+    "baseball glove": {
+        "definition": "A large leather glove worn to catch and field baseballs.",
+        "synonyms": ["mitt", "glove", "catcher's mitt", "fielder's glove"],
+        "translation": ["棒球手套", "接球手套", "棒球 Mitt"]
+    },
+    "tennis racket": {
+        "definition": "A strung frame with a handle, used to hit the ball in tennis.",
+        "synonyms": ["racket", "racquet", "tennis bat", "paddle"],
+        "translation": ["网球拍", "球拍", "网球用拍"]
+    },
+    "wine glass": {
+        "definition": "A stemmed glass with a bowl-shaped top for drinking wine.",
+        "synonyms": ["goblet", "chalice", "wine cup", "flute"],
+        "translation": ["酒杯", "葡萄酒杯", "高脚杯"]
+    },
+    "hot dog": {
+        "definition": "A cooked sausage served in a sliced bun, often with condiments.",
+        "synonyms": ["frankfurter", "wiener", "frank", "dog"],
+        "translation": ["热狗", "香肠面包", "法兰克福香肠"]
+    },
+    "potted plant": {
+        "definition": "A plant grown in a pot or container, often for decorative purposes.",
+        "synonyms": ["pot plant", "houseplant", "container plant", "indoor plant"],
+        "translation": ["盆栽植物", "室内植物", "花盆植物"]
+    },
+    "dining table": {
+        "definition": "A table used for eating meals, typically in a dining room.",
+        "synonyms": ["kitchen table", "dinner table", "eating table", "board"],
+        "translation": ["餐桌", "饭桌", "餐厅桌子"]
+    },
+    "cell phone": {
+        "definition": "A portable telephone device used for communication.",
+        "synonyms": ["mobile phone", "smartphone", "cell", "handset"],
+        "translation": ["手机", "移动电话", "智能手机"]
+    },
+    "teddy bear": {
+        "definition": "A stuffed toy bear, typically used as a children's plaything.",
+        "synonyms": ["stuffed bear", "plush bear", "teddy", "cuddly toy"],
+        "translation": ["泰迪熊", "毛绒熊", "玩具熊"]
+    },
+    "hair drier": {
+        "definition": "An electric device for drying hair by blowing hot air over it.",
+        "synonyms": ["blow dryer", "hairdryer", "dryer", "blower"],
+        "translation": ["吹风机", "电吹风", "干发器"]
+    },
+    "object": {
+        "definition": "A material thing or meaningful entity that needs to be recognized or localized.",
+        "synonyms": ["item", "thing", "target", "entity"],
+        "translation": ["物体", "物件", "东西", "实体"]
+    },
+    "background": {
+        "definition": "The regions in an image that are not targets and do not carry specific semantic interest or require recognition.",
+        "synonyms": ["backdrop"],
+        "translation": ["背景", "后景"]
+    }
+}
