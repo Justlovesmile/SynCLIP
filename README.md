@@ -3,12 +3,9 @@
 </h2>
 
 <p align="center">
-  <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Xie_SynCLIP_Synonym-Coherent_Language-Image_Pretraining_for_Robust_Open-Vocabulary_Dense_Perception_CVPR_2026_paper.pdf">
-    <img src="https://img.shields.io/badge/CVPR-Paper-blue.svg" alt="CVPR Paper">
-  </a>
-  <a href="#citation">
-    <img src="https://img.shields.io/badge/Citation-BibTeX-green.svg" alt="Citation">
-  </a>
+  <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Xie_SynCLIP_Synonym-Coherent_Language-Image_Pretraining_for_Robust_Open-Vocabulary_Dense_Perception_CVPR_2026_paper.html"><img src="https://img.shields.io/badge/CVPR-Paper-blue.svg" alt="CVPR"></a>
+  <a href="https://arxiv.org/abs/2607.11008"><img src="https://img.shields.io/badge/arXiv-2607.11008-b31b1b" alt="arXiv"></a>
+  <a href="#citation"><img src="https://img.shields.io/badge/Citation-BibTeX-green.svg" alt="Citation"></a>
 </p>
 
 <p align="center">
@@ -173,10 +170,12 @@ This work is built on many excellent research works and open-source projects. We
 If you find this project useful in your research, please consider starring the repository and citing our paper.
 
 ```bibtex
-@inproceedings{xie2026synclip,
-  title={SynCLIP: Synonym-Coherent Language-Image Pretraining for Robust Open-Vocabulary Dense Perception},
-  author={Xie, Mingjie and He, Guangjun and Xu, Dongli and Lin, Youtian and Li, Hongjue and Feng, Pengming and Guan, Jian and Deng, Yue},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year={2026}
+@InProceedings{Xie_2026_CVPR,
+    author    = {Xie, Mingjie and He, Guangjun and Xu, Dongli and Lin, Youtian and Li, Hongjue and Feng, Pengming and Guan, Jian and Deng, Yue},
+    title     = {SynCLIP: Synonym-Coherent Language-Image Pretraining for Robust Open-Vocabulary Dense Perception},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {31524-31533}
 }
 ```
